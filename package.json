@@ -1,5 +1,5 @@
 {
-  "name": "next-shop",
+  "name": "next-base",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -16,5 +16,21 @@
   "devDependencies": {
     "eslint": "8.15.0",
     "eslint-config-next": "12.1.6"
-  }
+  },
+  "description": "Next.js base for developers who want to fast develop with Next or have problems creating next app.",
+  "main": "next.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NathanLazo/next-base.git"
+  },
+  "keywords": [
+    "Next",
+    "React"
+  ],
+  "author": "Nathan Lazo <nathanlazo@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NathanLazo/next-base/issues"
+  },
+  "homepage": "https://github.com/NathanLazo/next-base#readme"
 }
