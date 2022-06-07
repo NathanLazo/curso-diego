@@ -1,5 +1,5 @@
 # next-base
-Next.js base for developers who want to fast develop with Next or have problems creating next app.
+Next.js base for developers who want to fast develop with Next and TailwindCSS.
 
 ## About 
 I was struggling creating a next.js app on windows, so I created this boilerplate to fast develop with this framework.
